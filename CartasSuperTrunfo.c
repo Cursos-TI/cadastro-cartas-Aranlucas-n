@@ -65,6 +65,8 @@ int main() {
   scanf("%d", &turismo2);
 
   // Área para exibição dos dados da cidade
+  /*Foi incluido (\n) no inicio de algumas varíaveis para garantir um bom espaçamento
+  do texto de forma que fique mais facil de entender*/
 
   // Exibição de cartas cadastradas
 
