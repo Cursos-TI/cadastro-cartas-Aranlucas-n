@@ -24,9 +24,9 @@ int main() {
   printf("\nUma letra de A a H:");
   scanf(" %c", &estado1);
   printf("Código da carta de 01 a 04 (ex:A01, B03):");
-  scanf(" %s", &codigo1);
+  scanf(" %s", codigo1);
   printf("Nome da cidade:");
-  scanf(" %s", &cidade1);
+  scanf(" %s", cidade1);
   printf("População:");
   scanf(" %d", &populacao1);
   printf("Área em km²:");
@@ -42,9 +42,9 @@ int main() {
   printf("\nUma letra de A a H:");
   scanf(" %c", &estado2);
   printf("Código da carta de 01 a 04 (ex:A01, B03):");
-  scanf(" %s", &codigo2);
+  scanf(" %s", codigo2);
   printf("Nome da cidade:");
-  scanf(" %s", &cidade2);
+  scanf(" %s", cidade2);
   printf("População:");
   scanf(" %d", &populacao2);
   printf("Área em km²:");
