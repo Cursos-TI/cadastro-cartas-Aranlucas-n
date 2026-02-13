@@ -76,8 +76,8 @@ int main() {
   printf("Código: %s \n", codigo1);
   printf("Nome da cidade: %s \n", cidade1);
   printf("População: %d \n", populacao1);
-  printf("Área em Km²: %.2f " "Km²\n", area1);
-  printf("Pib (Em bilhões de reais): %.2f " "Bilhões de reais\n", pib1);
+  printf("Área: %.2f " "Km²\n", area1);
+  printf("Pib: %.2f " "Bilhões de reais\n", pib1);
   printf("Número de Pontos Turísticos: %d \n", turismo1);
   printf("Densidade Populacional: %.2f " "hab/km²\n", densidade1);
   printf("PIB per capita: %.2f " "reais\n", pibpercapita1); 
@@ -88,8 +88,8 @@ int main() {
   printf("Código: %s \n", codigo2);
   printf("Nome da cidade: %s \n", cidade2);
   printf("População: %d \n", populacao2);
-  printf("Área em Km² %.2f " "Km²\n", area2);
-  printf("Pib (Em bilhões de reais): %.2f " "Bilhões de reais\n", pib2);
+  printf("Área: %.2f " "Km²\n", area2);
+  printf("Pib: %.2f " "Bilhões de reais\n", pib2);
   printf("Número de Pontos Turísticos: %d \n", turismo2);
   printf("Densidade Populacional: %.2f " "hab/km²\n", densidade2);
   printf("PIB per capita: %.2f " "reais\n", pibpercapita2); 
