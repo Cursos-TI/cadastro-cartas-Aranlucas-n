@@ -55,6 +55,7 @@ int main() {
   scanf(" %d", &turismo2);
 
   // Abaixo foi feita as operações matemáticas
+  // Multiplicado por 1 bilhão para facilitar no calculo e na leitura das cartas.
 
   densidade1 = populacao1 / area1; 
   pibpercapita1 = (pib1 * 1000000000) / populacao1; 
