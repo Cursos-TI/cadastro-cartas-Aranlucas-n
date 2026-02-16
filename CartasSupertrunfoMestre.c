@@ -59,11 +59,11 @@ int main() {
   // Abaixo foi feita as operações matemáticas
   // Multiplicado por 1 bilhão para facilitar no calculo e na leitura das cartas.
 
-  densidade1 = populacao1 / area1; 
-  pibpercapita1 = (pib1 * 1000000000) / populacao1; 
+  densidade1 = (float)populacao1 / area1; 
+  pibpercapita1 = (pib1 * 1000000000) / (float)populacao1; 
 
-  densidade2 = populacao2 / area2; 
-  pibpercapita2 = (pib2 * 1000000000) / populacao2; 
+  densidade2 = (float)populacao2 / area2; 
+  pibpercapita2 = (pib2 * 1000000000) / (float)populacao2; 
 
   // Área para exibição dos dados da cidade
   /*Foi incluido (\n) no inicio de algumas varíaveis para garantir um bom espaçamento
